@@ -30,3 +30,6 @@ Efek Sound
 
 # Kendala
 Tidak jalan animasi untuk detecting enemy sudah berkali-kali dicek tetap tidak ada jadi hanya bisa sampai game over
+
+# Release Build Game
+Untuk melihat dan mengunduh aplikasi gamenya klik <a href="https://github.com/mzhasanahesqiu/chapter-7-programming/releases/tag/survival-shooter-AgateSI">Release Survival Shooter</a>
