@@ -13,23 +13,31 @@ Menggunakan Unity 2018.3.3f1
 
 # Inputan
 WASD
+
 Kursor
 
 # Karakter
 Player
+
 Zombunny
+
 Zombear
+
 Zomhellephent
 
 # Fitur
 Score
+
 Hit Point
+
 Damage
+
 Game Over
+
 Efek Sound
 
 # Kendala
-Tidak jalan animasi untuk detecting enemy sudah berkali-kali dicek tetap tidak ada jadi hanya bisa sampai game over
+Tidak jalan animasi detecting enemy pada sub-chapter terakhir, sudah berkali-kali dicek tetap tidak ada jadi hanya bisa sampai game over
 
 # Release Build Game
 Untuk melihat dan mengunduh aplikasi gamenya klik <a href="https://github.com/mzhasanahesqiu/chapter-7-programming/releases/tag/survival-shooter-AgateSI">Release Survival Shooter</a>
